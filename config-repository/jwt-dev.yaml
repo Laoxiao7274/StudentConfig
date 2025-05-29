@@ -1,5 +1,5 @@
 student:
   jwt:
-    secret-key: 'studentKey'
+    secret-key: 'b5adcd37-105e-45e3-8a3c-e07adffe18aa'
     ttl: 7200000
     token-name: token
