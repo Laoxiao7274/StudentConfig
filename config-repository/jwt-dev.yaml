@@ -1,0 +1,5 @@
+student:
+  jwt:
+    secret-key: 'studentKey'
+    ttl: 7200000
+    token-name: token
